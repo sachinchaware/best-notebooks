@@ -1,2 +1,2 @@
 # best-notebooks
-To itilize best practise for databricks notebook
+To utilize best practise for databricks notebook
